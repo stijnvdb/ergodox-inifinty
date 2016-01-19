@@ -38,6 +38,10 @@
                 "1": {
                     "key": "F5",
                     "label": "F5"
+                },
+                "3": {
+                    "key": "#:ledControl( 4, 15, 0 )",
+                    "label": "LED+"
                 }
             },
             "w": 4,
@@ -55,6 +59,10 @@
                 "1": {
                     "key": "F4",
                     "label": "F4"
+                },
+                "3": {
+                    "key": "#:ledControl( 3, 15, 0 )",
+                    "label": "LED-"
                 }
             },
             "w": 4,
@@ -72,6 +80,10 @@
                 "1": {
                     "key": "F3",
                     "label": "F3"
+                },
+                "3": {
+                    "key": "#:ledControl( 5, 0, 0 )",
+                    "label": "LED OFF"
                 }
             },
             "w": 4,
@@ -89,6 +101,10 @@
                 "1": {
                     "key": "F2",
                     "label": "F2"
+                },
+                "3": {
+                    "key": "CONS:BRIGHTNESSINCREMENT",
+                    "label": "SCRN+"
                 }
             },
             "w": 4,
@@ -106,6 +122,10 @@
                 "1": {
                     "key": "F1",
                     "label": "F1"
+                },
+                "3": {
+                    "key": "CONS:BRIGHTNESSDECREMENT",
+                    "label": "SCRN-"
                 }
             },
             "w": 4,
@@ -117,8 +137,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "EQUAL",
+                    "label": "="
                 },
                 "2": {
                     "key": "#:flashMode()",
@@ -134,8 +154,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "LBRACE",
+                    "label": "["
                 }
             },
             "w": 4,
@@ -175,6 +195,10 @@
                 "0": {
                     "key": "E",
                     "label": "E"
+                },
+                "1": {
+                    "key": "UP",
+                    "label": "\u2191"
                 }
             },
             "w": 4,
@@ -240,6 +264,10 @@
                 "0": {
                     "key": "F",
                     "label": "F"
+                },
+                "1": {
+                    "key": "RIGHT",
+                    "label": "\u2192"
                 }
             },
             "w": 4,
@@ -253,6 +281,10 @@
                 "0": {
                     "key": "D",
                     "label": "D"
+                },
+                "1": {
+                    "key": "DOWN",
+                    "label": "\u2193"
                 }
             },
             "w": 4,
@@ -266,6 +298,10 @@
                 "0": {
                     "key": "S",
                     "label": "S"
+                },
+                "1": {
+                    "key": "LEFT",
+                    "label": "\u2190"
                 }
             },
             "w": 4,
@@ -290,12 +326,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
-                },
-                "3": {
-                    "key": "#:None",
-                    "label": "NONE"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             },
             "w": 6,
@@ -307,8 +339,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "LCK2",
+                    "label": "LOCK-2"
                 }
             },
             "w": 4,
@@ -320,8 +352,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCK3",
-                    "label": "LOCK-3"
+                    "key": "LCK1",
+                    "label": "LOCK-1"
                 }
             },
             "w": 4,
@@ -333,8 +365,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LCK1",
-                    "label": "LOCK-1"
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 }
             },
             "w": 4,
@@ -463,8 +495,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "SPACE",
+                    "label": "[&nbsp;]"
                 }
             },
             "w": 4,
@@ -476,8 +508,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "BACKTICK",
+                    "label": "`"
                 }
             },
             "w": 4,
@@ -489,8 +521,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LEFT",
-                    "label": "\u2190"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             },
             "w": 4,
@@ -502,8 +534,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             },
             "w": 4,
@@ -515,8 +547,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             },
             "w": 4,
@@ -541,8 +573,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "6",
-                    "label": "6"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 },
                 "1": {
                     "key": "F12",
@@ -558,16 +590,16 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "7",
-                    "label": "7"
+                    "key": "6",
+                    "label": "6"
                 },
                 "1": {
                     "key": "F6",
                     "label": "F6"
                 },
                 "3": {
-                    "key": "CONS:SCANPREVIOUSTRACK",
-                    "label": "PREV"
+                    "key": "CONS:REWIND",
+                    "label": "RW"
                 }
             },
             "w": 4,
@@ -579,8 +611,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "8",
-                    "label": "8"
+                    "key": "7",
+                    "label": "7"
                 },
                 "1": {
                     "key": "F7",
@@ -604,8 +636,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "9",
-                    "label": "9"
+                    "key": "8",
+                    "label": "8"
                 },
                 "1": {
                     "key": "F8",
@@ -616,8 +648,8 @@
                     "label": "P/"
                 },
                 "3": {
-                    "key": "CONS:SCANNEXTTRACK",
-                    "label": "NEXT"
+                    "key": "CONS:FASTFORWARD",
+                    "label": "FF"
                 }
             },
             "w": 4,
@@ -629,8 +661,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "0",
-                    "label": "0"
+                    "key": "9",
+                    "label": "9"
                 },
                 "1": {
                     "key": "F9",
@@ -654,8 +686,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "MINUS",
-                    "label": "-"
+                    "key": "0",
+                    "label": "0"
                 },
                 "1": {
                     "key": "F10",
@@ -679,8 +711,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "EQUAL",
-                    "label": "="
+                    "key": "MINUS",
+                    "label": "-"
                 },
                 "3": {
                     "key": "CONS:VOLUMEUP",
@@ -696,8 +728,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "RALT",
-                    "label": "RALT"
+                    "key": "RBRACE",
+                    "label": "]"
                 }
             },
             "w": 4,
@@ -790,8 +822,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RBRACE",
-                    "label": "]"
+                    "key": "RCTRL",
+                    "label": "RCTRL"
                 }
             },
             "w": 6,
@@ -884,8 +916,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LBRACE",
-                    "label": "["
+                    "key": "RALT",
+                    "label": "RALT"
                 }
             },
             "w": 6,
@@ -897,8 +929,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RALT",
-                    "label": "RALT"
+                    "key": "LCK3",
+                    "label": "LOCK-3"
                 }
             },
             "w": 4,
@@ -910,8 +942,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RCTRL",
-                    "label": "RCTRL"
+                    "key": "LCK4",
+                    "label": "LOCK-4"
                 }
             },
             "w": 4,
@@ -923,8 +955,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LCK2",
-                    "label": "LOCK-2"
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 }
             },
             "w": 4,
@@ -1056,8 +1088,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             },
             "w": 4,
@@ -1069,8 +1101,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "SPACE",
-                    "label": "[&nbsp;]"
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 },
                 "2": {
                     "key": "P0",
