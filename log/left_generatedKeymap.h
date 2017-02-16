@@ -173,11 +173,11 @@ Guide_RM( 7 ) = { 1, 15, KEY_RCTRL, 0 };
 Guide_RM( 8 ) = { 1, 15, KEY_LEFT, 0 };
 Guide_RM( 9 ) = { 2, 4, 3, 0, 1, 0 };
 Guide_RM( 10 ) = { 1, 15, KEY_K, 0 };
-Guide_RM( 11 ) = { 1, 15, KEY_LALT, 0 };
+Guide_RM( 11 ) = { 1, 15, KEY_LCTRL, 0 };
 Guide_RM( 12 ) = { 1, 15, KEY_DOWN, 0 };
 Guide_RM( 13 ) = { 1, 15, KEY_5, 0 };
 Guide_RM( 14 ) = { 1, 15, KEY_BACKSLASH, 0 };
-Guide_RM( 15 ) = { 1, 15, KEY_LCTRL, 0 };
+Guide_RM( 15 ) = { 1, 15, KEY_LALT, 0 };
 Guide_RM( 16 ) = { 1, 15, KEY_D, 0 };
 Guide_RM( 17 ) = { 1, 15, KEY_UP, 0 };
 Guide_RM( 18 ) = { 1, 15, KEY_P, 0 };
@@ -660,7 +660,7 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 31, 29 ),
 	Define_TM( 32, 30 ),
 	Define_TM( 33, 4 ),
-	Define_TM( 34, 11 ),
+	Define_TM( 34, 15 ),
 	Define_TM( 35, 4 ),
 	Define_TM( 36, 31 ),
 	Define_TM( 37, 32 ),
@@ -705,7 +705,7 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 76, 65 ),
 	Define_TM( 77, 66 ),
 	Define_TM( 78, 48 ),
-	Define_TM( 79, 15 ),
+	Define_TM( 79, 11 ),
 	Define_TM( 80, 67 ),
 	Define_TM( 81, 68 ),
 	Define_TM( 82, 69 ),
@@ -745,7 +745,7 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 116, 33 ),
 	Define_TM( 117, 88 ),
 	Define_TM( 118, 89 ),
-	Define_TM( 119, 11 ),
+	Define_TM( 119, 15 ),
 	Define_TM( 120, 17 ),
 	Define_TM( 121, 90 ),
 	Define_TM( 122, 37 ),

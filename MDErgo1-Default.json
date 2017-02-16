@@ -785,8 +785,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 },
                 "1": {
                     "key": "LGUI",
@@ -1683,8 +1683,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "LALT",
+                    "label": "LALT"
                 },
                 "1": {
                     "key": "LGUI",
